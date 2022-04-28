@@ -47,4 +47,5 @@ p {
 section {
     background-color: white;
     margin: 30px;
+    box-shadow: 2px 2px 2px 2px darkgray;
 }
